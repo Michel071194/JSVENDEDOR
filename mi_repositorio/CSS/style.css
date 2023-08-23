@@ -1,0 +1,9 @@
+.conteiner {
+    background-color: yellowgreen;
+    height: 305px;
+    width: 250px;
+    padding: 40px;
+    padding-left: 90px;
+   justify-content: flex-end;
+   margin-left: 400px;
+}
